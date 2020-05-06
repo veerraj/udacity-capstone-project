@@ -2,26 +2,6 @@
 
 ## Content
 
-1. [Motivation](#motivation)
-2. [Start Project locally](#start-locally)
-3. [API Documentation](#api)
-4. [Authentification](#authentification)
-
-<a name="motivation"></a>
-## Motivations & Covered Topics
-
-This is the last project of the `Udacity-Full-Stack-Nanodegree` Course.
-It covers following technical topics in 1 app:
-
-1. Database modeling with `postgres` & `sqlalchemy` (see `models.py`)
-2. API to performance CRUD Operations on database with `Flask` (see `app.py`)
-3. Automated testing with `Unittest` (see `test_app`)
-4. Authorization & Role based Authentification with `Auth0` (see `auth.py`)
-5. Deployment on `Heroku`
-
-<a name="start-locally"></a>
-## Start Project locally
-
 Make sure you `cd` into the correct folder (with all app files) before following the setup steps.
 Also, you need the latest version of [Python 3](https://www.python.org/downloads/)
 and [postgres](https://www.postgresql.org/download/) installed on your machine.
